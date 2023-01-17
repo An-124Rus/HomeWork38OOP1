@@ -14,19 +14,19 @@
 
 class Player
 {
-    private string Name;
-    private int Age;
-    private int Level;
+    private string _name;
+    private int _age;
+    private int _level;
 
     public Player(string name, int age, int level)
     {
-        Name = name;
-        Age = age;
-        Level = level;
+        _name = name;
+        _age = age;
+        _level = level;
     }
 
     public void ShowInfo()
     {
-        Console.WriteLine($"Имя игрока: {Name}\nВозраст: {Age}\nУровень: {Level}");
+        Console.WriteLine($"Имя игрока: {_name}\nВозраст: {_age}\nУровень: {_level}");
     }
 }
