@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        string name = "Иван";
+        string name = "Владимир";
         int age = 18;
         int level = 15;
 
@@ -14,9 +14,9 @@
 
 class Player
 {
-    public string Name;
-    public int Age;
-    public int Level;
+    private string Name;
+    private int Age;
+    private int Level;
 
     public Player(string name, int age, int level)
     {
