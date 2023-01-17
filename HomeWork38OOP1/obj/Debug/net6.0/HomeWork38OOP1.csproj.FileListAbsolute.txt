@@ -1,0 +1,15 @@
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\bin\Debug\net6.0\HomeWork38OOP1.exe
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\bin\Debug\net6.0\HomeWork38OOP1.deps.json
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\bin\Debug\net6.0\HomeWork38OOP1.runtimeconfig.json
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\bin\Debug\net6.0\HomeWork38OOP1.dll
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\bin\Debug\net6.0\HomeWork38OOP1.pdb
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.csproj.AssemblyReference.cache
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.AssemblyInfoInputs.cache
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.AssemblyInfo.cs
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.csproj.CoreCompileInputs.cache
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.dll
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\refint\HomeWork38OOP1.dll
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.pdb
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\HomeWork38OOP1.genruntimeconfig.cache
+E:\CSlight\HomeWork38OOP1\HomeWork38OOP1\obj\Debug\net6.0\ref\HomeWork38OOP1.dll
