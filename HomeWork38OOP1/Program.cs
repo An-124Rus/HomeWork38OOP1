@@ -2,7 +2,11 @@
 {
     private static void Main(string[] args)
     {
-        Player player = new Player("Иван", 18, 15);
+        string name = "Иван";
+        int age = 18;
+        int level = 15;
+
+        Player player = new Player(name, age, level);
 
         player.ShowInfo();
     }
